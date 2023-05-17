@@ -1,4 +1,4 @@
-# End to end Kidney-disease-prediction project
+# Kidney disease prediction End-to-End project
 ## Kidney-disease-prediction
 Kidney disease is a serious condition that can lead to kidney failure. It is important to be able to predict kidney disease early so that treatment can be started and kidney failure can be prevented.
 
